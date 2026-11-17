@@ -1,0 +1,10 @@
+{
+  "name": "LANMIC Common Price Finder",
+  "short_name": "LANMIC Price Finder",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#155d42",
+  "description": "Search LMC and LME common price list by product, distance and loading capacity.",
+  "icons": []
+}

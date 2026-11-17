@@ -1,0 +1,27 @@
+{
+  "source_file": "Common Price List LMC & LME with SSCL.xlsx",
+  "sheet": "Table 1",
+  "source_rows": 134,
+  "product_count": 132,
+  "price_currency": "Not specified in the source workbook",
+  "price_unit": "Not specified in the source workbook",
+  "ex_factory_columns": [
+    "Ex-factory Price Below 5MT",
+    "Ex-factory Price Above 5MT"
+  ],
+  "delivery_distances_km": [
+    80,
+    100,
+    120,
+    240
+  ],
+  "loading_capacities_mt": [
+    3,
+    5,
+    7.5,
+    10,
+    15,
+    20
+  ],
+  "note": "Blank price cells remain blank. Category labels are taken from the source code/category column; blank source labels are shown as Category not specified in source."
+}
